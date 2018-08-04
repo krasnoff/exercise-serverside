@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UBTechServerExercise", "UBTechServerExercise\UBTechServerExercise.csproj", "{16C63477-2EE9-4BD6-BCF2-51018DE9B39C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16C63477-2EE9-4BD6-BCF2-51018DE9B39C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16C63477-2EE9-4BD6-BCF2-51018DE9B39C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16C63477-2EE9-4BD6-BCF2-51018DE9B39C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16C63477-2EE9-4BD6-BCF2-51018DE9B39C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14E1D8F5-F7C2-4116-B7F7-305AFEC0F788}
+	EndGlobalSection
+EndGlobal
