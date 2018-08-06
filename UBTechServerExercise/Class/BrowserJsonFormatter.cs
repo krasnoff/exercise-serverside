@@ -8,7 +8,9 @@ using System.Web;
 
 namespace UBTechServerExercise.Class
 {
-
+    /// <summary>
+    /// Ensures that the content type will by application/json
+    /// </summary>
     public class BrowserJsonFormatter : JsonMediaTypeFormatter
     {
         public BrowserJsonFormatter()

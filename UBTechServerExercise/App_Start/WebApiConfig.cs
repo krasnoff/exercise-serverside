@@ -13,7 +13,7 @@ namespace UBTechServerExercise
             // Web API configuration and services
             config.Formatters.Add(new BrowserJsonFormatter());
 
-            // New code
+            // Enable cors
             config.EnableCors();
 
             // Web API routes
